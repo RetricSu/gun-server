@@ -1,0 +1,12 @@
+{
+  "name": "gun-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "gun": "^0.2020.1235"
+  }
+}
